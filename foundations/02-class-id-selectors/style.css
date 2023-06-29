@@ -1,0 +1,21 @@
+/* style.css */
+
+p {
+    background-color: #ffc0bc;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+ .drei {
+    font-size: 36px;
+}
+
+#zwei {
+    color: blue;
+    font-size: 36px;
+}
+
+#vier {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 800;
+}
